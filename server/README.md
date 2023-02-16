@@ -1,16 +1,16 @@
+# UpGrad-Yogini AI Image Generation Tool 
+
+## About the Coder...
 Student = Yogini Malewar
 Course Name = Full Stack Javascript Developer Bootcamp
 Project Name = UpGrad-Yogini AI Image Generation Tool 
 Project is build with = MongoDB, Express, React, NodeJS, OpenAI, Tailwindcss, vite, Cloudinary
 
-
-UpGrad-Yogini AI Image Generation Tool 
-
-#################### Introduction ###############################
+## Introduction
 
 This project is an AI image generation tool built with OpenAI and the MERN(MongoDB, Express, React, NodeJS) stack, Cloudinary, and Frontend using Tailwind and Vite. The tool is designed to allow users to generate high-quality images using AI algorithms and share their Creativity amongst others in the community. 
 
-#################### Features ###############################
+## Features
 
 • Generates high-quality images using OpenAI's image generation algorithms. 
 • Provides a user-friendly interface for selecting and configuring the generation algorithm. 
@@ -18,7 +18,7 @@ This project is an AI image generation tool built with OpenAI and the MERN(Mongo
 • Share the generated image with the Community 
 
 
-#################### Technologies Used ###############################
+## Technologies Used
 
 • MongoDB: A document-oriented database used to store user settings and image data. 
 • Express: A web application framework used to build the API that interacts with OpenAI's image generation API. 
@@ -30,7 +30,7 @@ This project is an AI image generation tool built with OpenAI and the MERN(Mongo
 • Cloudinary is a cloud-based media management platform that provides tools for media assets with scalability and performance. 
 
 
-#################### Getting Started ###############################
+## Getting Started
 
 To get started with this project, you will need to have Node.js and MongoDB installed on your machine. Once you have those dependencies installed, you can follow these steps: 
 
@@ -47,7 +47,7 @@ If You have Successfully did all the above Steps. Split you terminal into two an
 8. Once the server and frontend are running, you can open your browser and navigate to http://localhost:5173 to use the AI image generation tool. 
 
 
-#################### Usage ###############################
+## Usage
 
 To use the AI image generation tool, follow these steps: 
 1. Go to the website. 
@@ -58,7 +58,7 @@ To use the AI image generation tool, follow these steps:
 6. If you are Interested in the Sharing that image with the Community, Click ‘Share with Community’ button 
 
 
-#################### Example ###############################
+## Examples
 
 1. Here are some examples of the types of images that can be generated using this tool: 
 2. High-resolution landscape photos 
